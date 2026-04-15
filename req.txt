@@ -1,0 +1,5 @@
+simple-salesforce==1.12.4
+boto3==1.28.85
+requests==2.32.5
+
+
